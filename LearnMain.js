@@ -137,6 +137,4 @@
         }
     }
     window.zhushou=function(){window.zeroModal.show({title:window.xtzs_lang[locale]['ABXHELPER'],ok:true,cancelTitle: "取消",content:window.xtzs_lang[locale]['ABXSUMMARY']});};
-
-    // Your code here...
 })();
